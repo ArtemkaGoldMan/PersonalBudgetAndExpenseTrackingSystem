@@ -7,8 +7,7 @@ namespace PersonalBudgetTrackingSystem.Controllers
 {
     public class BudgetCategoriesController : Controller
     {
-
-        private readonly string _filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data", "budgetCategories.json");
+        private readonly string _filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\Data\budgetCategories.json");
         public IActionResult Index()
         {
             var categories = JsonFileManager.LoadData<BudgetCategory>(_filePath);

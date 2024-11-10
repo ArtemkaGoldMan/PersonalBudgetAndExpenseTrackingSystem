@@ -7,7 +7,7 @@ namespace PersonalBudgetTrackingSystem.Controllers
 {
     public class IncomeController : Controller
     {
-        private readonly string _filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data", "income.json");
+        private readonly string _filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\Data\income.json");
 
         public IActionResult Index()
         {

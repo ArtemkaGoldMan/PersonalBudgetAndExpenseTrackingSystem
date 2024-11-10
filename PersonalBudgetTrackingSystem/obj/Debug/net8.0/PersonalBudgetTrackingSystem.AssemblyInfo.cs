@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonalBudgetTrackingSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+103b24d62650f70d94baca1f0788e2e38f7e2076")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f77fce9079785076130137f44024a4eff41812")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonalBudgetTrackingSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonalBudgetTrackingSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,22 @@
     </div>
     <div class="form-group">
         <label for="category">Category</label>
-        <input type="text" class="form-control" id="category" name="Category" placeholder="Enter category" />
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Select Category
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                @foreach (var category in ViewBag!.Categories! as List<string>)
+                {
+                    <a class="dropdown-item" href="#" onclick="document.getElementById('categoryInput').value = '@category'; return false;">@category</a>
+                }
+            </div>
+        </div>
+        <input type="hidden" id="categoryInput" name="Category" />
     </div>
     <div class="form-group">
         <label for="date">Date</label>
-        <input type="date" class="form-control" id="date" name="Date" />
+        <input type="date" class="form-control" id="date" name="Date" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
     </div>
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
