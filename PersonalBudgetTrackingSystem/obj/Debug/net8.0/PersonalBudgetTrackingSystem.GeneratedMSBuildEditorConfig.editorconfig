@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\artem\University\Proj_Web_Les\lab3\PersonalBudgetTrackingSystem\PersonalBudgetTrackingSystem
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetTrackingSystem/PersonalBudgetTrackingSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

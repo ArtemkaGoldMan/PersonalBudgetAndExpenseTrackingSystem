@@ -1,0 +1,25 @@
+﻿@model PersonalBudgetTrackingSystem.Models.Expense
+
+<h2>Edit Expense</h2>
+
+@using (Html.BeginForm("Edit", "Expenses", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.Id)
+    <div>
+        <label>Description</label>
+        @Html.TextBoxFor(m => m.Description)
+    </div>
+    <div>
+        <label>Amount</label>
+        @Html.TextBoxFor(m => m.Amount)
+    </div>
+    <div>
+        <label>Category</label>
+        @Html.TextBoxFor(m => m.Category)
+    </div>
+    <div>
+        <label>Date</label>
+        @Html.TextBoxFor(m => m.Date, "{0:yyyy-MM-dd}")
+    </div>
+    <button type="submit">Save Changes</button>
+}

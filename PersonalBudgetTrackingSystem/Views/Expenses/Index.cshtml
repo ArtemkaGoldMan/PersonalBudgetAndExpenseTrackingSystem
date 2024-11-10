@@ -1,0 +1,34 @@
+﻿@model IEnumerable<PersonalBudgetTrackingSystem.Models.Expense>
+
+@{
+    ViewData["Title"] = "Expense";
+}
+
+<h2>Expenses</h2>
+<a href="@Url.Action("Create", "Expenses")">Add New Expense</a>
+<table>
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Amount</th>
+            <th>Category</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var expense in Model)
+        {
+            <tr>
+                <td>@expense.Description</td>
+                <td>@expense.Amount</td>
+                <td>@expense.Category</td>
+                <td>@expense.Date.ToShortDateString()</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Expenses", new { id = expense.Id })">Edit</a> |
+                    <a href="@Url.Action("Delete", "Expenses", new { id = expense.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
