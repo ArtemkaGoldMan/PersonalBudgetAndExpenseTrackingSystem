@@ -102,8 +102,7 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:49:19.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T11:49:19.728Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:40:26.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T11:40:26.605Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Helper\\JsonFileManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:37:18.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T11:37:18.511Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:02:35.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T12:02:35.954Z"
             },
             {
               "$type": "Document",
@@ -162,9 +158,9 @@
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAYwFQAAAA1AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFIAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-10T12:02:43.819Z",
               "EditorCaption": ""
@@ -179,8 +175,7 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:01:29.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T12:01:29.677Z"
             },
             {
               "$type": "Document",
@@ -192,8 +187,7 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:01:54.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T12:01:54.79Z"
             },
             {
               "$type": "Document",
@@ -205,8 +199,7 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:02:15.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T12:02:15.827Z"
             },
             {
               "$type": "Document",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:06:53.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T12:06:53.071Z"
             },
             {
               "$type": "Document",
