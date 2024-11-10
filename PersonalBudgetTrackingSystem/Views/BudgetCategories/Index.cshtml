@@ -1,0 +1,37 @@
+﻿@model IEnumerable<PersonalBudgetTrackingSystem.Models.BudgetCategory>
+
+@{
+    ViewData["Title"] = "Budget Categories";
+}
+
+<h2>Budget Categories</h2>
+<a href="@Url.Action("Create", "BudgetCategories")" class="btn btn-primary mb-3">Add New Category</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-center">#</th>
+            <th>Name</th>
+            <th>Budget Limit</th>
+            <th class="text-right">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td class="text-center">@category.Id</td>
+                <td>@category.Name</td>
+                <td>@category.BudgetLimit</td>
+                <td class="td-actions text-right">
+                    <a href="@Url.Action("Edit", "BudgetCategories", new { id = category.Id })" class="btn btn-info btn-sm btn-icon">
+                        <i class="now-ui-icons ui-2_settings-90"></i>
+                    </a>
+                    <a href="@Url.Action("Delete", "BudgetCategories", new { id = category.Id })" class="btn btn-danger btn-sm btn-icon">
+                        <i class="now-ui-icons ui-1_simple-remove"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

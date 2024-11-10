@@ -1,0 +1,23 @@
+﻿@model PersonalBudgetTrackingSystem.Models.SavingsGoal
+
+<h2>Add New Savings Goal</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" name="Name" placeholder="Enter goal name" />
+    </div>
+    <div class="form-group">
+        <label for="targetAmount">Target Amount</label>
+        <input type="number" class="form-control" id="targetAmount" name="TargetAmount" placeholder="Enter target amount" />
+    </div>
+    <div class="form-group">
+        <label for="currentAmount">Current Amount</label>
+        <input type="number" class="form-control" id="currentAmount" name="CurrentAmount" placeholder="Enter current amount" />
+    </div>
+    <div class="form-group">
+        <label for="targetDate">Target Date</label>
+        <input type="date" class="form-control" id="targetDate" name="TargetDate" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

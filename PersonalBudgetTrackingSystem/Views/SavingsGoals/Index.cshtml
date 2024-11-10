@@ -1,0 +1,41 @@
+﻿@model IEnumerable<PersonalBudgetTrackingSystem.Models.SavingsGoal>
+
+@{
+    ViewData["Title"] = " Savings Goals";
+}
+
+<h2>Savings Goals</h2>
+<a href="@Url.Action("Create", "SavingsGoals")" class="btn btn-primary mb-3">Add New Goal</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="text-center">#</th>
+            <th>Name</th>
+            <th>Target Amount</th>
+            <th>Current Amount</th>
+            <th>Target Date</th>
+            <th class="text-right">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var goal in Model)
+        {
+            <tr>
+                <td class="text-center">@goal.Id</td>
+                <td>@goal.Name</td>
+                <td>@goal.TargetAmount</td>
+                <td>@goal.CurrentAmount</td>
+                <td>@goal.TargetDate.ToShortDateString()</td>
+                <td class="td-actions text-right">
+                    <a href="@Url.Action("Edit", "SavingsGoals", new { id = goal.Id })" class="btn btn-info btn-sm btn-icon">
+                        <i class="now-ui-icons ui-2_settings-90"></i>
+                    </a>
+                    <a href="@Url.Action("Delete", "SavingsGoals", new { id = goal.Id })" class="btn btn-danger btn-sm btn-icon">
+                        <i class="now-ui-icons ui-1_simple-remove"></i>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

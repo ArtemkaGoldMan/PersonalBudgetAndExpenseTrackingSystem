@@ -1,0 +1,15 @@
+﻿@model PersonalBudgetTrackingSystem.Models.BudgetCategory
+
+<h2>Add New Category</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <input type="text" class="form-control" id="name" name="Name" placeholder="Enter category name" />
+    </div>
+    <div class="form-group">
+        <label for="budgetLimit">Budget Limit</label>
+        <input type="number" class="form-control" id="budgetLimit" name="BudgetLimit" placeholder="Enter budget limit" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -1,0 +1,24 @@
+﻿@model PersonalBudgetTrackingSystem.Models.SavingsGoal
+
+<h2>Edit Savings Goal</h2>
+
+<form asp-action="Edit" method="post">
+    @Html.HiddenFor(m => m.Id)
+    <div class="form-group">
+        <label for="name">Name</label>
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "Enter goal name" })
+    </div>
+    <div class="form-group">
+        <label for="targetAmount">Target Amount</label>
+        @Html.TextBoxFor(m => m.TargetAmount, new { @class = "form-control", placeholder = "Enter target amount" })
+    </div>
+    <div class="form-group">
+        <label for="currentAmount">Current Amount</label>
+        @Html.TextBoxFor(m => m.CurrentAmount, new { @class = "form-control", placeholder = "Enter current amount" })
+    </div>
+    <div class="form-group">
+        <label for="targetDate">Target Date</label>
+        @Html.TextBoxFor(m => m.TargetDate, new { @class = "form-control", type = "date" })
+    </div>
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+</form>

@@ -5,28 +5,35 @@
 }
 
 <h2>Expenses</h2>
-<a href="@Url.Action("Create", "Expenses")">Add New Expense</a>
-<table>
+<a href="@Url.Action("Create", "Expenses")" class="btn btn-primary mb-3">Add New Expense</a>
+
+<table class="table">
     <thead>
         <tr>
+            <th class="text-center">#</th>
             <th>Description</th>
             <th>Amount</th>
             <th>Category</th>
             <th>Date</th>
-            <th>Actions</th>
+            <th class="text-right">Actions</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var expense in Model)
         {
             <tr>
+                <td class="text-center">@expense.Id</td>
                 <td>@expense.Description</td>
                 <td>@expense.Amount</td>
                 <td>@expense.Category</td>
                 <td>@expense.Date.ToShortDateString()</td>
-                <td>
-                    <a href="@Url.Action("Edit", "Expenses", new { id = expense.Id })">Edit</a> |
-                    <a href="@Url.Action("Delete", "Expenses", new { id = expense.Id })">Delete</a>
+                <td class="td-actions text-right">
+                    <a href="@Url.Action("Edit", "Expenses", new { id = expense.Id })" class="btn btn-info btn-sm btn-icon">
+                        <i class="now-ui-icons ui-2_settings-90"></i>
+                    </a>
+                    <a href="@Url.Action("Delete", "Expenses", new { id = expense.Id })" class="btn btn-danger btn-sm btn-icon">
+                        <i class="now-ui-icons ui-1_simple-remove"></i>
+                    </a>
                 </td>
             </tr>
         }
