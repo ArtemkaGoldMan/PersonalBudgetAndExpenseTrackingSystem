@@ -1,4 +1,4 @@
-﻿@model IEnumerable<PersonalBudgetTrackingSystem.Models.Income>
+﻿@model dynamic
 
 @{
     ViewData["Title"] = "Income";
@@ -18,7 +18,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var income in Model)
+        @foreach (var income in Model.IncomeList)
         {
             <tr>
                 <td class="text-center">@income.Id</td>
@@ -37,3 +37,66 @@
         }
     </tbody>
 </table>
+
+<!-- Chart Section -->
+<div class="container mt-5">
+    <h3>Monthly Income Chart</h3>
+    <canvas id="monthlyIncomeChart" width="300" height="150"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Get the monthly income data from the model
+    var monthlyIncomeData = @Html.Raw(Json.Serialize(Model.MonthlyIncome));
+    console.log(monthlyIncomeData);  // Ensure the data is correctly logged
+
+    // Sort the data by year and month (ascending order)
+    monthlyIncomeData.sort(function (a, b) {
+        var dateA = new Date(a.yearMonth.split('/')[1], a.yearMonth.split('/')[0] - 1);  // MM/YYYY -> Date object
+        var dateB = new Date(b.yearMonth.split('/')[1], b.yearMonth.split('/')[0] - 1);  // MM/YYYY -> Date object
+        return dateA - dateB;  // Compare dates (ascending order)
+    });
+
+    // Prepare the chart labels (Month/Year) and data (Total Income)
+    var labels = monthlyIncomeData.map(function (data) {
+        return data.yearMonth;  // Correctly access 'yearMonth' for the labels
+    });
+
+    var data = monthlyIncomeData.map(function (data) {
+        return data.totalAmount;  // Correctly access 'totalAmount' for the chart data
+    });
+
+    // Log the labels and data to ensure they're correct
+    console.log(labels);
+    console.log(data);
+
+    // Create the chart
+    var ctx = document.getElementById('monthlyIncomeChart').getContext('2d');
+    var monthlyIncomeChart = new Chart(ctx, {
+        type: 'line',  // Use line chart (you can also use 'bar' if you prefer)
+        data: {
+            labels: labels,  // X-axis labels (Month/Year)
+            datasets: [{
+                label: 'Monthly Income',
+                data: data,  // Y-axis data (Total income)
+                borderColor: '#4bc0c0',
+                fill: false,  // Set to true if you want the line to be filled
+                tension: 0.1   // Smoothness of the line
+            }]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    ticks: {
+                        callback: function (value) {
+                            return '$' + value.toLocaleString();  // Format Y-axis as currency
+                        }
+                    }
+                }
+            }
+        }
+    });
+</script>
+

@@ -12,7 +12,26 @@ namespace PersonalBudgetTrackingSystem.Controllers
         public IActionResult Index()
         {
             var incomeList = JsonFileManager.LoadData<Income>(_filePath);
-            return View(incomeList);
+
+            // Group the income by month and year for chart data
+            var monthlyIncome = incomeList
+                .GroupBy(i => new { i.Date.Year, i.Date.Month })
+                .Select(g => new
+                {
+                    YearMonth = $"{g.Key.Month}/{g.Key.Year}",
+                    TotalAmount = g.Sum(i => i.Amount)
+                })
+                .OrderBy(i => i.YearMonth)
+                .ToList();
+
+            // Return both the income list for the table and the monthly income data for the chart
+            var model = new
+            {
+                IncomeList = incomeList,
+                MonthlyIncome = monthlyIncome
+            };
+
+            return View(model);
         }
 
         public IActionResult Create()
@@ -63,5 +82,7 @@ namespace PersonalBudgetTrackingSystem.Controllers
             }
             return RedirectToAction("Index");
         }
+
+       
     }
 }
