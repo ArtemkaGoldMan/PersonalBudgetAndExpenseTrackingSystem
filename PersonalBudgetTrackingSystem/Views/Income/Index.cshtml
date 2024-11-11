@@ -7,7 +7,12 @@
 <h2>Income</h2>
 <a href="@Url.Action("Create", "Income")" class="btn btn-primary mb-3">Add New Income</a>
 
-<table class="table">
+<!-- Search Bar -->
+<div class="mb-3">
+    <input type="text" id="searchBar" class="form-control" placeholder="Search by Source, Amount or Date" onkeyup="filterTable()">
+</div>
+
+<table class="table" id="incomeTable">
     <thead>
         <tr>
             <th class="text-center">#</th>
@@ -45,6 +50,7 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 <script>
     // Get the monthly income data from the model
     var monthlyIncomeData = @Html.Raw(Json.Serialize(Model.MonthlyIncome));
@@ -98,5 +104,30 @@
             }
         }
     });
-</script>
 
+    // Filter function for the table
+    function filterTable() {
+        var input = document.getElementById('searchBar').value.toLowerCase();
+        var table = document.getElementById('incomeTable');
+        var tr = table.getElementsByTagName('tr');
+
+        // Loop through all table rows
+        for (var i = 1; i < tr.length; i++) {  // Start from 1 to skip the header row
+            var tdSource = tr[i].getElementsByTagName('td')[1];
+            var tdAmount = tr[i].getElementsByTagName('td')[2];
+            var tdDate = tr[i].getElementsByTagName('td')[3];
+            if (tdSource || tdAmount || tdDate) {
+                var source = tdSource.textContent || tdSource.innerText;
+                var amount = tdAmount.textContent || tdAmount.innerText;
+                var date = tdDate.textContent || tdDate.innerText;
+
+                // Check if any of the fields match the search input
+                if (source.toLowerCase().includes(input) || amount.toLowerCase().includes(input) || date.toLowerCase().includes(input)) {
+                    tr[i].style.display = '';
+                } else {
+                    tr[i].style.display = 'none';
+                }
+            }
+        }
+    }
+</script>
