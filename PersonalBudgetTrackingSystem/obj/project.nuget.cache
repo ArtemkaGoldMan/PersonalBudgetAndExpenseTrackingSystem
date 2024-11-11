@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/PtRPm27Zqk=",
+  "dgSpecHash": "9DH8DRNvtNA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marta Stankevich\\ProgWebiMob\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj",
+  "projectFilePath": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Marta Stankevich\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\artem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -9,11 +9,39 @@ namespace PersonalBudgetTrackingSystem.Controllers
     {
         private readonly string _expenseFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\Data\expenses.json");
         private readonly string _categoryFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\..\Data\budgetCategories.json");
-        public IActionResult Index()
+        public IActionResult Index(string searchString, string sortOrder)
         {
             var expenses = JsonFileManager.LoadData<Expense>(_expenseFilePath);
+
+            // Searching by description
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                expenses = expenses.Where(e => e.Description.Contains(searchString, StringComparison.OrdinalIgnoreCase)).ToList();
+            }
+
+            // Sorting
+            switch (sortOrder)
+            {
+                case "amount_asc":
+                    expenses = expenses.OrderBy(e => e.Amount).ToList();
+                    break;
+                case "amount_desc":
+                    expenses = expenses.OrderByDescending(e => e.Amount).ToList();
+                    break;
+                case "date_asc":
+                    expenses = expenses.OrderBy(e => e.Date).ToList();
+                    break;
+                case "date_desc":
+                    expenses = expenses.OrderByDescending(e => e.Date).ToList();
+                    break;
+                default:
+                    expenses = expenses.OrderBy(e => e.Id).ToList();
+                    break;
+            }
+
             return View(expenses);
         }
+
 
         public IActionResult Create()
         {

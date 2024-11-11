@@ -7,6 +7,27 @@
 <h2>Expenses</h2>
 <a href="@Url.Action("Create", "Expenses")" class="btn btn-primary mb-3">Add New Expense</a>
 
+<!-- Filter, Search, and Sort Form -->
+<form method="get" action="@Url.Action("Index", "Expenses")" class="mb-4 form-inline">
+    <!-- Search by Description -->
+    <div class="form-group mr-3">
+        <label for="searchString" class="mr-2">Search:</label>
+        <input type="text" name="searchString" id="searchString" value="@ViewContext.HttpContext.Request.Query["searchString"]" placeholder="Description" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Apply Search</button>
+</form>
+
+<!-- Sorting Links -->
+<div class="mb-3">
+    <span>Sort by: </span>
+    <a href="@Url.Action("Index", new { sortOrder = "amount_asc" })">Amount (Low to High)</a> |
+    <a href="@Url.Action("Index", new { sortOrder = "amount_desc" })">Amount (High to Low)</a> |
+    <a href="@Url.Action("Index", new { sortOrder = "date_asc" })">Date (Oldest to Newest)</a> |
+    <a href="@Url.Action("Index", new { sortOrder = "date_desc" })">Date (Newest to Oldest)</a>
+</div>
+
+<!-- Expense List Table -->
 <table class="table">
     <thead>
         <tr>

@@ -9,87 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PersonalBudgetTrackingSystem
 build_property.RootNamespace = PersonalBudgetTrackingSystem
-build_property.ProjectDir = C:\Users\Marta Stankevich\ProgWebiMob\lab3\PersonalBudgetAndExpenseTrackingSystem\PersonalBudgetTrackingSystem\
+build_property.ProjectDir = C:\Users\artem\University\Proj_Web_Les\lab3\PersonalBudgetAndExpenseTrackingSystem\PersonalBudgetTrackingSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Marta Stankevich\ProgWebiMob\lab3\PersonalBudgetAndExpenseTrackingSystem\PersonalBudgetTrackingSystem
+build_property.MSBuildProjectDirectory = C:\Users\artem\University\Proj_Web_Les\lab3\PersonalBudgetAndExpenseTrackingSystem\PersonalBudgetTrackingSystem
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/BudgetCategories/Create.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/BudgetCategories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0Q2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/BudgetCategories/Edit.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/BudgetCategories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0Q2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/BudgetCategories/Index.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/BudgetCategories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0Q2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Create.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Edit.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Index.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Expenses/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Home/Index.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Home/Privacy.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Income/Create.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Income/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Income/Edit.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Income/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Income/Index.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Income/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/SavingsGoals/Create.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/SavingsGoals/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F2aW5nc0dvYWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/SavingsGoals/Edit.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/SavingsGoals/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F2aW5nc0dvYWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/SavingsGoals/Index.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/SavingsGoals/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2F2aW5nc0dvYWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Shared/Error.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/_ViewImports.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/_ViewStart.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Marta Stankevich/ProgWebiMob/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Shared/_Layout.cshtml]
+[C:/Users/artem/University/Proj_Web_Les/lab3/PersonalBudgetAndExpenseTrackingSystem/PersonalBudgetTrackingSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1t4c48ih5u
