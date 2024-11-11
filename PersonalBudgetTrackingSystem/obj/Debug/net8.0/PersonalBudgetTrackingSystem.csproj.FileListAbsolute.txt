@@ -108,3 +108,4 @@ C:\Users\artem\University\Proj_Web_Les\lab3\PersonalBudgetAndExpenseTrackingSyst
 C:\Users\artem\University\Proj_Web_Les\lab3\PersonalBudgetAndExpenseTrackingSystem\PersonalBudgetTrackingSystem\obj\Debug\net8.0\PersonalBudgetTrackingSystem.pdb
 C:\Users\artem\University\Proj_Web_Les\lab3\PersonalBudgetAndExpenseTrackingSystem\PersonalBudgetTrackingSystem\obj\Debug\net8.0\PersonalBudgetTrackingSystem.genruntimeconfig.cache
 C:\Users\artem\University\Proj_Web_Les\lab3\PersonalBudgetAndExpenseTrackingSystem\PersonalBudgetTrackingSystem\obj\Debug\net8.0\ref\PersonalBudgetTrackingSystem.dll
+C:\Users\artem\University\Proj_Web_Les\lab3\PersonalBudgetAndExpenseTrackingSystem\PersonalBudgetTrackingSystem\bin\Debug\net8.0\Data\savingsGoals.json

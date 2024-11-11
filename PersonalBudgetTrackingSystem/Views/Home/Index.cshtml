@@ -6,4 +6,89 @@
     <h1 class="display-4">Control your budget with this website</h1>
 </div>
 
+<div class="container mt-5">
+    <h2>Expense Reports</h2>
+
+    <div class="my-4">
+        <h4>Monthly Expenses</h4>
+        <canvas id="monthlyExpensesChart" width="400" height="200"></canvas> 
+    </div>
+
+    <div class="my-4">
+        <h4>Expenses by Category</h4>
+        <canvas id="categoryExpensesChart" width="300" height="150"></canvas> 
+    </div>
+
+</div>
+
+<!-- Include Chart.js from CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    async function loadExpenseReportData() {
+        const response = await fetch('/Home/GetExpenseReportData');
+        const data = await response.json();
+
+        // Log data to confirm structure
+        console.log('Monthly Totals:', data.monthlyTotals);
+        console.log('Category Totals:', data.categoryTotals);
+
+        // Monthly Expenses Chart
+        const monthlyLabels = data.monthlyTotals.map(item => item.month);
+        const monthlyData = data.monthlyTotals.map(item => item.totalAmount);
+
+        const monthlyCtx = document.getElementById('monthlyExpensesChart').getContext('2d');
+        new Chart(monthlyCtx, {
+            type: 'bar',
+            data: {
+                labels: monthlyLabels,
+                datasets: [{
+                    label: 'Total Expenses',
+                    data: monthlyData,
+                    backgroundColor: 'rgba(75, 192, 192, 0.6)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // Category Expenses Chart
+        const categoryLabels = data.categoryTotals.map(item => item.category);
+        const categoryData = data.categoryTotals.map(item => item.totalAmount);
+
+        function generateGradientColors(count) {
+            const colors = [];
+            for (let i = 0; i < count; i++) {
+                const hue = (i * 360 / count) % 360; // Distribute hues evenly
+                colors.push(`hsla(${hue}, 70%, 60%, 0.8)`); // Adjust saturation and lightness as needed
+            }
+            return colors;
+        }
+
+        const categoryColors = generateGradientColors(categoryData.length);
+
+        const categoryCtx = document.getElementById('categoryExpensesChart').getContext('2d');
+        new Chart(categoryCtx, {
+            type: 'pie',
+            data: {
+                labels: categoryLabels,
+                datasets: [{
+                    data: categoryData,
+                    backgroundColor: categoryColors,
+                    borderColor: 'rgba(255, 255, 255, 1)',
+                    borderWidth: 1
+                }]
+            }
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', loadExpenseReportData);
+</script>
+
 

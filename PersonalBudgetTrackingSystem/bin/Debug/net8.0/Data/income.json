@@ -1,44 +1,122 @@
 [
   {
     "Id": 1,
-    "Source": "job",
-    "Amount": 10.0,
-    "Date": "2005-03-13T00:00:00"
+    "Source": "Job",
+    "Amount": 1000.0,
+    "Date": "2024-01-15T00:00:00"
   },
   {
     "Id": 2,
-    "Source": "job",
-    "Amount": 15.0,
-    "Date": "2005-03-24T00:00:00"
+    "Source": "Freelance",
+    "Amount": 500.0,
+    "Date": "2024-01-20T00:00:00"
   },
   {
     "Id": 3,
-    "Source": "job",
-    "Amount": 25.0,
-    "Date": "2005-04-13T00:00:00"
+    "Source": "Investment",
+    "Amount": 200.0,
+    "Date": "2024-02-10T00:00:00"
   },
   {
     "Id": 4,
-    "Source": "job",
-    "Amount": 17.0,
-    "Date": "2005-04-24T00:00:00"
+    "Source": "Gift",
+    "Amount": 150.0,
+    "Date": "2024-03-05T00:00:00"
   },
   {
     "Id": 5,
-    "Source": "job",
-    "Amount": 10.0,
-    "Date": "2005-05-13T00:00:00"
+    "Source": "Job",
+    "Amount": 1200.0,
+    "Date": "2024-03-15T00:00:00"
   },
   {
     "Id": 6,
-    "Source": "job",
-    "Amount": 50.0,
-    "Date": "2005-06-13T00:00:00"
+    "Source": "Freelance",
+    "Amount": 600.0,
+    "Date": "2024-03-25T00:00:00"
   },
   {
     "Id": 7,
-    "Source": "aaa",
-    "Amount": 12.0,
-    "Date": "2024-10-04T00:00:00"
+    "Source": "Interest",
+    "Amount": 75.0,
+    "Date": "2024-04-01T00:00:00"
+  },
+  {
+    "Id": 8,
+    "Source": "Job",
+    "Amount": 1100.0,
+    "Date": "2024-04-15T00:00:00"
+  },
+  {
+    "Id": 9,
+    "Source": "Bonus",
+    "Amount": 300.0,
+    "Date": "2024-05-01T00:00:00"
+  },
+  {
+    "Id": 10,
+    "Source": "Freelance",
+    "Amount": 650.0,
+    "Date": "2024-05-20T00:00:00"
+  },
+  {
+    "Id": 11,
+    "Source": "Job",
+    "Amount": 1150.0,
+    "Date": "2024-06-15T00:00:00"
+  },
+  {
+    "Id": 12,
+    "Source": "Gift",
+    "Amount": 250.0,
+    "Date": "2024-07-05T00:00:00"
+  },
+  {
+    "Id": 13,
+    "Source": "Job",
+    "Amount": 1250.0,
+    "Date": "2024-07-15T00:00:00"
+  },
+  {
+    "Id": 14,
+    "Source": "Freelance",
+    "Amount": 550.0,
+    "Date": "2024-08-20T00:00:00"
+  },
+  {
+    "Id": 15,
+    "Source": "Investment",
+    "Amount": 300.0,
+    "Date": "2024-08-25T00:00:00"
+  },
+  {
+    "Id": 16,
+    "Source": "Job",
+    "Amount": 1300.0,
+    "Date": "2024-09-15T00:00:00"
+  },
+  {
+    "Id": 17,
+    "Source": "Interest",
+    "Amount": 85.0,
+    "Date": "2024-09-01T00:00:00"
+  },
+  {
+    "Id": 18,
+    "Source": "Job",
+    "Amount": 1350.0,
+    "Date": "2024-10-15T00:00:00"
+  },
+  {
+    "Id": 19,
+    "Source": "Bonus",
+    "Amount": 400.0,
+    "Date": "2024-11-01T00:00:00"
+  },
+  {
+    "Id": 20,
+    "Source": "Freelance",
+    "Amount": 700.0,
+    "Date": "2024-11-20T00:00:00"
   }
 ]

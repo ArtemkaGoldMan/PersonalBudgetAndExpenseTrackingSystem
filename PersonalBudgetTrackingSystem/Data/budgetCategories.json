@@ -1,27 +1,52 @@
 [
   {
     "Id": 1,
-    "Name": "11111",
-    "BudgetLimit": 0.0
+    "Name": "Food",
+    "BudgetLimit": 500.0
   },
   {
     "Id": 2,
-    "Name": "2222",
-    "BudgetLimit": 0.0
+    "Name": "Entertainment",
+    "BudgetLimit": 200.0
   },
   {
     "Id": 3,
-    "Name": "333",
-    "BudgetLimit": 0.0
+    "Name": "Utilities",
+    "BudgetLimit": 300.0
   },
   {
     "Id": 4,
-    "Name": "444",
-    "BudgetLimit": 0.0
+    "Name": "Transport",
+    "BudgetLimit": 150.0
   },
   {
     "Id": 5,
-    "Name": "555",
-    "BudgetLimit": 0.0
+    "Name": "Health",
+    "BudgetLimit": 250.0
+  },
+  {
+    "Id": 6,
+    "Name": "Education",
+    "BudgetLimit": 400.0
+  },
+  {
+    "Id": 7,
+    "Name": "Shopping",
+    "BudgetLimit": 600.0
+  },
+  {
+    "Id": 8,
+    "Name": "Insurance",
+    "BudgetLimit": 350.0
+  },
+  {
+    "Id": 9,
+    "Name": "Savings",
+    "BudgetLimit": 1000.0
+  },
+  {
+    "Id": 10,
+    "Name": "Miscellaneous",
+    "BudgetLimit": 100.0
   }
 ]

@@ -1,23 +1,170 @@
 [
   {
     "Id": 1,
-    "Description": "Artem",
-    "Amount": 1234.0,
-    "Category": "pop",
-    "Date": "2024-11-10T00:00:00"
+    "Description": "Groceries",
+    "Amount": 150.0,
+    "Category": "Food",
+    "Date": "2024-01-15T00:00:00"
   },
   {
     "Id": 2,
-    "Description": "Artem",
-    "Amount": 1234.0,
-    "Category": "2222",
-    "Date": "0001-01-01T00:00:00"
+    "Description": "Movie Tickets",
+    "Amount": 50.0,
+    "Category": "Entertainment",
+    "Date": "2024-01-20T00:00:00"
   },
   {
     "Id": 3,
-    "Description": "Testing",
-    "Amount": 1234567.0,
-    "Category": "2222",
-    "Date": "2024-11-11T00:00:00"
+    "Description": "Electric Bill",
+    "Amount": 75.0,
+    "Category": "Utilities",
+    "Date": "2024-01-25T00:00:00"
+  },
+  {
+    "Id": 4,
+    "Description": "Bus Pass",
+    "Amount": 40.0,
+    "Category": "Transport",
+    "Date": "2024-02-05T00:00:00"
+  },
+  {
+    "Id": 5,
+    "Description": "Doctor Visit",
+    "Amount": 200.0,
+    "Category": "Health",
+    "Date": "2024-02-10T00:00:00"
+  },
+  {
+    "Id": 6,
+    "Description": "Online Course",
+    "Amount": 300.0,
+    "Category": "Education",
+    "Date": "2024-02-15T00:00:00"
+  },
+  {
+    "Id": 7,
+    "Description": "Clothes Shopping",
+    "Amount": 250.0,
+    "Category": "Shopping",
+    "Date": "2024-02-20T00:00:00"
+  },
+  {
+    "Id": 8,
+    "Description": "Car Insurance",
+    "Amount": 180.0,
+    "Category": "Insurance",
+    "Date": "2024-03-01T00:00:00"
+  },
+  {
+    "Id": 9,
+    "Description": "Savings Contribution",
+    "Amount": 500.0,
+    "Category": "Savings",
+    "Date": "2024-03-05T00:00:00"
+  },
+  {
+    "Id": 10,
+    "Description": "Birthday Gift",
+    "Amount": 80.0,
+    "Category": "Miscellaneous",
+    "Date": "2024-03-10T00:00:00"
+  },
+  {
+    "Id": 11,
+    "Description": "Dinner Out",
+    "Amount": 70.0,
+    "Category": "Food",
+    "Date": "2024-03-15T00:00:00"
+  },
+  {
+    "Id": 12,
+    "Description": "Concert Tickets",
+    "Amount": 120.0,
+    "Category": "Entertainment",
+    "Date": "2024-03-20T00:00:00"
+  },
+  {
+    "Id": 13,
+    "Description": "Water Bill",
+    "Amount": 60.0,
+    "Category": "Utilities",
+    "Date": "2024-04-01T00:00:00"
+  },
+  {
+    "Id": 14,
+    "Description": "Taxi Ride",
+    "Amount": 30.0,
+    "Category": "Transport",
+    "Date": "2024-04-05T00:00:00"
+  },
+  {
+    "Id": 15,
+    "Description": "Pharmacy Purchase",
+    "Amount": 40.0,
+    "Category": "Health",
+    "Date": "2024-04-10T00:00:00"
+  },
+  {
+    "Id": 16,
+    "Description": "Textbooks",
+    "Amount": 120.0,
+    "Category": "Education",
+    "Date": "2024-04-15T00:00:00"
+  },
+  {
+    "Id": 17,
+    "Description": "Grocery Run",
+    "Amount": 130.0,
+    "Category": "Food",
+    "Date": "2024-05-01T00:00:00"
+  },
+  {
+    "Id": 18,
+    "Description": "Museum Visit",
+    "Amount": 25.0,
+    "Category": "Entertainment",
+    "Date": "2024-05-05T00:00:00"
+  },
+  {
+    "Id": 19,
+    "Description": "Gas Bill",
+    "Amount": 90.0,
+    "Category": "Utilities",
+    "Date": "2024-05-10T00:00:00"
+  },
+  {
+    "Id": 20,
+    "Description": "Monthly Bus Pass",
+    "Amount": 45.0,
+    "Category": "Transport",
+    "Date": "2024-05-15T00:00:00"
+  },
+  {
+    "Id": 21,
+    "Description": "Health Checkup",
+    "Amount": 150.0,
+    "Category": "Health",
+    "Date": "2024-05-20T00:00:00"
+  },
+  {
+    "Id": 22,
+    "Description": "Online Workshop",
+    "Amount": 200.0,
+    "Category": "Education",
+    "Date": "2024-05-25T00:00:00"
+  },
+  {
+    "Id": 23,
+    "Description": "Gadgets",
+    "Amount": 300.0,
+    "Category": "Shopping",
+    "Date": "2024-06-01T00:00:00"
+  },
+  {
+    "Id": 24,
+    "Description": "Vehicle Insurance",
+    "Amount": 180.0,
+    "Category": "Insurance",
+    "Date": "2024-06-05T00:00:00"
   }
 ]
