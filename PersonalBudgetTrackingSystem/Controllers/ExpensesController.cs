@@ -16,7 +16,7 @@ namespace PersonalBudgetTrackingSystem.Controllers
             // Searching by description
             if (!string.IsNullOrEmpty(searchString))
             {
-                expenses = expenses.Where(e => e.Description.Contains(searchString, StringComparison.OrdinalIgnoreCase)).ToList();
+                expenses = expenses.Where(e => e.Description!.Contains(searchString, StringComparison.OrdinalIgnoreCase)).ToList();
             }
 
             // Sorting

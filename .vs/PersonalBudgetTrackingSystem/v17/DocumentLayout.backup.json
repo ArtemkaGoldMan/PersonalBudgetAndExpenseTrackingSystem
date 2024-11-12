@@ -3,12 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\income\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\income\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\incomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\incomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\expenses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\expenses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\budgetcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\budgetcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\budgetcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\budgetcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\budgetcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\budgetcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\models\\budgetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\models\\budgetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\helper\\jsonfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\helper\\jsonfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\savingsgoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\savingsgoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\budgetcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\budgetcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\data\\income.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,32 +95,8 @@
       "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\income\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\budgetcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\budgetcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\savingsgoals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\savingsgoals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\income\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\income\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\budgetcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\budgetcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\data\\expenses.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -71,36 +107,8 @@
       "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\data\\budgetcategories.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\models\\budgetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\models\\budgetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\incomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\incomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\savingsgoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\savingsgoalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\controllers\\budgetcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\controllers\\budgetcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\views\\budgetcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\views\\budgetcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\helper\\jsonfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|solutionrelative:personalbudgettrackingsystem\\helper\\jsonfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AEBBB1E-3812-4F00-A0FB-E434585CD61E}|PersonalBudgetTrackingSystem\\PersonalBudgetTrackingSystem.csproj|c:\\users\\artem\\university\\proj_web_les\\lab3\\personalbudgetandexpensetrackingsystem\\personalbudgettrackingsystem\\models\\savingsgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,176 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "income.json",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\income.json",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Data\\income.json",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\income.json",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Data\\income.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T16:37:45.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:02:43.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Index.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Income\\Index.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Index.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Income\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:47:44.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Edit.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:51:35.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Index.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Index.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Index.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:50:46.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "expenses.json",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\expenses.json",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Data\\expenses.json",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\expenses.json",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Data\\expenses.json",
-              "ViewState": "AgIAAFMAAAAAAAAAAADwv6kAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-10T15:43:18.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Create.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Income\\Create.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Create.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Income\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:48:16.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwCIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:50:38.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:06:53.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Create.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Create.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:50:00.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "savingsGoals.json",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\savingsGoals.json",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Data\\savingsGoals.json",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\savingsGoals.json",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Data\\savingsGoals.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T16:37:24.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Income\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Edit.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Income\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:48:41.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Create.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Create.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Create.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:51:23.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Index.cshtml",
               "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Index.cshtml",
@@ -303,113 +142,11 @@
               "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T13:49:18.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T13:49:18.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:01:29.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IncomeController.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\IncomeController.cs",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\IncomeController.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\IncomeController.cs",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\IncomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:45:49.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BudgetCategory.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\BudgetCategory.cs",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Models\\BudgetCategory.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\BudgetCategory.cs",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Models\\BudgetCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:36:02.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "budgetCategories.json",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\budgetCategories.json",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Data\\budgetCategories.json",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\budgetCategories.json",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Data\\budgetCategories.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T16:03:37.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ExpensesController.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:40:26.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Expense.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\Expense.cs",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Models\\Expense.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\Expense.cs",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Models\\Expense.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:35:27.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SavingsGoalsController.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:49:19.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BudgetCategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\BudgetCategoriesController.cs",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\BudgetCategoriesController.cs",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\BudgetCategoriesController.cs",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\BudgetCategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T11:47:09.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 10,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Edit.cshtml",
               "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Edit.cshtml",
@@ -421,7 +158,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:06:53.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:40:26.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:50:38.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IncomeController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\IncomeController.cs",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\IncomeController.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\IncomeController.cs",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\IncomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:45:49.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Income\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Index.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Income\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAHEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T13:47:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:02:43.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BudgetCategory.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\BudgetCategory.cs",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Models\\BudgetCategory.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\BudgetCategory.cs",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Models\\BudgetCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:36:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "JsonFileManager.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Helper\\JsonFileManager.cs",
               "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Helper\\JsonFileManager.cs",
@@ -433,7 +260,211 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SavingsGoalsController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\SavingsGoalsController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:49:19.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Edit.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T20:30:46.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T20:30:54.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Create.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\BudgetCategories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T13:50:00.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T12:01:29.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BudgetCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\BudgetCategoriesController.cs",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Controllers\\BudgetCategoriesController.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Controllers\\BudgetCategoriesController.cs",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Controllers\\BudgetCategoriesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA7wAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:47:09.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T20:16:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Create.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Income\\Create.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Create.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Income\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T13:48:16.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "expenses.json",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\expenses.json",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Data\\expenses.json",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\expenses.json",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Data\\expenses.json",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv6kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T15:43:18.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Index.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T13:50:46.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Edit.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T13:51:35.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "income.json",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\income.json",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Data\\income.json",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\income.json",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Data\\income.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T16:37:45.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "savingsGoals.json",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\savingsGoals.json",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Data\\savingsGoals.json",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\savingsGoals.json",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Data\\savingsGoals.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T16:37:24.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Income\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Income\\Edit.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Income\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T13:48:41.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Create.cshtml",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Create.cshtml",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Create.cshtml",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\SavingsGoals\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T13:51:23.865Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "budgetCategories.json",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\budgetCategories.json",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Data\\budgetCategories.json",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Data\\budgetCategories.json",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Data\\budgetCategories.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T16:03:37.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\Expense.cs",
+              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:35:27.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "SavingsGoal.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\SavingsGoal.cs",
               "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Models\\SavingsGoal.cs",
@@ -445,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Income.cs",
               "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Models\\Income.cs",
               "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Models\\Income.cs",
@@ -454,40 +485,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T11:35:47.383Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "2704167b-70bb-4259-b43d-a98b76b4cb30",
-        "Display": 1,
-        "X": 467,
-        "Y": 215,
-        "Width": 1206,
-        "Height": 672,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
-              "RelativeDocumentMoniker": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
-              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab3\\PersonalBudgetAndExpenseTrackingSystem\\PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
-              "RelativeToolTip": "PersonalBudgetTrackingSystem\\Views\\Expenses\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T12:01:54.79Z",
-              "EditorCaption": ""
             }
           ]
         }

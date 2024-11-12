@@ -53,22 +53,22 @@
 <script>
     // Get the monthly income data from the model
     var monthlyIncomeData = @Html.Raw(Json.Serialize(Model.MonthlyIncome));
-    console.log(monthlyIncomeData);  // Ensure the data is correctly logged
+    console.log(monthlyIncomeData);
 
     // Sort the data by year and month (ascending order)
     monthlyIncomeData.sort(function (a, b) {
-        var dateA = new Date(a.yearMonth.split('/')[1], a.yearMonth.split('/')[0] - 1);  // MM/YYYY -> Date object
-        var dateB = new Date(b.yearMonth.split('/')[1], b.yearMonth.split('/')[0] - 1);  // MM/YYYY -> Date object
-        return dateA - dateB;  // Compare dates (ascending order)
+        var dateA = new Date(a.yearMonth.split('/')[1], a.yearMonth.split('/')[0] - 1);  
+        var dateB = new Date(b.yearMonth.split('/')[1], b.yearMonth.split('/')[0] - 1); 
+        return dateA - dateB; 
     });
 
     // Prepare the chart labels (Month/Year) and data (Total Income)
     var labels = monthlyIncomeData.map(function (data) {
-        return data.yearMonth;  // Correctly access 'yearMonth' for the labels
+        return data.yearMonth;  
     });
 
     var data = monthlyIncomeData.map(function (data) {
-        return data.totalAmount;  // Correctly access 'totalAmount' for the chart data
+        return data.totalAmount; 
     });
 
     // Log the labels and data to ensure they're correct
@@ -78,15 +78,15 @@
     // Create the chart
     var ctx = document.getElementById('monthlyIncomeChart').getContext('2d');
     var monthlyIncomeChart = new Chart(ctx, {
-        type: 'line',  // Use line chart (you can also use 'bar' if you prefer)
+        type: 'line', 
         data: {
-            labels: labels,  // X-axis labels (Month/Year)
+            labels: labels, 
             datasets: [{
                 label: 'Monthly Income',
-                data: data,  // Y-axis data (Total income)
+                data: data,  
                 borderColor: '#4bc0c0',
-                fill: false,  // Set to true if you want the line to be filled
-                tension: 0.1   // Smoothness of the line
+                fill: false,  
+                tension: 0.1  
             }]
         },
         options: {
@@ -96,7 +96,7 @@
                     beginAtZero: true,
                     ticks: {
                         callback: function (value) {
-                            return '$' + value.toLocaleString();  // Format Y-axis as currency
+                            return '$' + value.toLocaleString();  
                         }
                     }
                 }
@@ -111,7 +111,7 @@
         var tr = table.getElementsByTagName('tr');
 
         // Loop through all table rows
-        for (var i = 1; i < tr.length; i++) {  // Start from 1 to skip the header row
+        for (var i = 1; i < tr.length; i++) {  
             var tdSource = tr[i].getElementsByTagName('td')[1];
             var tdAmount = tr[i].getElementsByTagName('td')[2];
             var tdDate = tr[i].getElementsByTagName('td')[3];
